@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(8, 191, 252);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 13px;
+}
+
+main h1{
+    color: rgb(131, 240, 8);
+    font-size: 55px;
+    text-align: center;
+}
+
+footer p {
+    background-color: red;
+
+}
+
+nav a {
+    text-decoration: none;
+    margin: 44px;
+    color: white;
+}
+
+nav {
+    background-color: darkgreen;
+    padding: 9px;
+}
+
+.l1 {
+    background-color: rgb(153, 209, 98);
+    padding: 10pxx;
+}
+
+h2 {
+    color: blue;
+}
